@@ -1,0 +1,13 @@
+•	Klasa to szablon do tworzenia obiektów. Przechowuje pola i metody.
+•	Obiekt to odzwierciedlona część rzeczywistość w świecie nierzeczywistym. Innymi słowy opis w kodzie np. samochodu.
+•	Zmienna to określona części pamięci do której przypisujemy określone wartości.
+•	Każda zmienna musi mieć określony typ, np. int, albo String.
+•	Jeżeli deklarację zmiennej poprzedzimy słowem final, to zmienna staje się stałą czyli wartością nie zmienną. 
+•	W klasie mogą się znajdować pola, konstruktory i metody
+•	Klasy są wywoływane przez operator przypisania/referencji i służą do tworzenia nowych obiektów.
+•	Jeśli w klasie zdefiniowano chociaż jeden konstruktor to kompilator nie wygeneruje dla nas konstruktora domyślnego.
+•	Zakładając, że istnieje klasa Car, to przy zapisie:
+•	Car car1 = new Car(„BMW”, „M5”, 2007, 2.6);  
+Car car2 = car1;
+car1 i car2 to dwie referencje wskazujące na ten sam obiekt w pamięci. 
+
