@@ -1,18 +1,12 @@
 public class MathMetod {
     boolean isEven(int num) {
-        if (num % 2 == 0) {
-            return true;
-        } else {
-            return false;
-        }
+        boolean boo = (num % 2 == 0);
+        return boo;
     }
 
     boolean isOdd(int num) {
-        if (num % 2 == 0) {
-            return false;
-        } else {
-            return true;
-        }
+        boolean boo = isEven(num);
+        return !boo;
     }
 
     double circleField(double num) {

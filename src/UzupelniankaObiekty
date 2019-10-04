@@ -1,4 +1,5 @@
 •	Klasa to szablon do tworzenia obiektów. Przechowuje pola i metody.
+
 •	Obiekt to odzwierciedlona część rzeczywistość w świecie nierzeczywistym. Innymi słowy opis w kodzie np. samochodu.
 •	Zmienna to określona części pamięci do której przypisujemy określone wartości.
 •	Każda zmienna musi mieć określony typ, np. int, albo String.
